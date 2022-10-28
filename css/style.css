@@ -1,0 +1,247 @@
+ .header .wrapper
+ {
+	width:70%;
+    margin:auto; 
+ }
+ .logo .wrapper
+ {
+	 width:70%;
+    margin:auto;
+ } 
+ .calltoaction .wrapper
+ {
+	width:70%;
+    margin:auto; 
+ }
+ .payus .wrapper
+ {
+	 width:70%;
+    margin:auto;
+ }
+ .team .wrapper
+ {
+	width:70%;
+    margin:auto; 
+ }
+ .contact .wrapper
+ {
+	 width:70%;
+    margin:auto;
+ }
+ 
+ .header
+ {
+	 background-color:black;
+	 height:79px;
+	 width:1516px;
+ }
+.header .header-fc
+{
+	display:flex;
+	flex direction:row;
+	justify-content:space-between;
+}
+ .header .header-fc .header-left
+ {
+	 background-color:white;
+	 height:36px;
+	 width:160px; 
+	 margin-top:30px;
+ }
+  .header .header-fc .header-right
+  {
+	   background-color:white;
+	 height:36px;
+	 width:278px; 
+	  margin-top:30px;
+  }
+  
+.logo
+{
+background-color: lightblue;
+	 height:388px;
+	 width:1516px;	
+}
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.logo .logo-fc .logotxt
+{
+	width:100%;
+	margin-top:70px;
+	text-align:center;
+}
+.logo .logo-fc .buttona
+{
+	 background-color:white;
+	 height:50px;
+	 width:150px; 
+	  margin-top:80px;
+}
+.logo .logo-fc .buttonb
+{
+	 background-color:white;
+	 height:50px;
+	 width:150px; 
+	  margin-top:80px;
+}
+
+.calltoaction
+{
+	background-color:gray;
+	height:422px;
+}
+.calltoaction .calltoaction-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.calltoaction .calltoaction-fc .boxa
+{
+	background-color:white;
+	 height:276px;
+	 width:300px; 
+	  margin-top:30px;
+}
+.calltoaction .calltoaction-fc .boxb
+{
+		background-color:white;
+	 height:276px;
+	 width:300px; 
+	  margin-top:30px;
+}
+.calltoaction .calltoaction-fc .boxc
+{
+		background-color:white;
+	 height:276px;
+	 width:300px; 
+	  margin-top:30px;
+}
+
+.payus 
+{
+	background-color:rgb(248,249,250);
+	height:840px;
+	
+}
+.payus .payus-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.payus .payus-fc .paya
+{
+	background-color:skyblue;
+	 height:508px;
+	 width:250px; 
+	  margin-top:80px;
+}
+.payus .payus-fc .payb
+{
+	background-color:skyblue;
+	 height:508px;
+	 width:250px; 
+	  margin-top:80px;
+}
+.payus .payus-fc .payc
+{
+	background-color:skyblue;
+	 height:508px;
+	 width:250px; 
+	  margin-top:80px;
+}
+
+.team
+{
+background-color:white;
+height:362px;	
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+}
+.team .team-fc .teamtext
+{
+	width:100%;
+	margin-top:30px;
+	text-align:center;
+}
+.team .team-fc .teamboxa
+{
+	background-color:skyblue;
+	 height:100px;
+	 width:583px; 
+	  margin-top:40px;
+}
+.team .team-fc .teamboxb
+{
+	background-color:skyblue;
+	 height:100px;
+	 width:583px; 
+	  margin-top:40px;
+}
+
+.contact
+{
+	background-color:rgb(248,249,250);
+	height:822px;
+}
+
+.contact .contact-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:column;
+
+}
+.contact .contact-fc .name
+{
+	width:100%;
+	height:61px;
+	margin-top:200px;
+}
+.contact .contact-fc .email
+{
+	width:100%;
+	height:61px;
+	margin-top:40px;
+}
+.contact .contact-fc .mobile
+{
+	width:100%;
+	height:61px;
+	margin-top:40px;
+	
+}
+.contact .contact-fc .message
+{
+	width:100%;
+	height:80px;
+	margin-top:40px;
+}
+.website
+{
+	background-color :black;
+	
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:pink;
+	width:206px;
+	height:35px;
+}
+
